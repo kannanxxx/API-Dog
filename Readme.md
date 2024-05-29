@@ -2,4 +2,4 @@
 ### Index
 
 ### Animals
- [Dogs Facts](https://kinduff.github.io/dog-api/) | Random facts of FOX
+ [Dogs Facts](https://kinduff.github.io/dog-api/) | Random facts of DOGs
